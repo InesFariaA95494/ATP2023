@@ -1,5 +1,0 @@
-
-# Delete the file locally
-rm TPC1.ext
-
-
